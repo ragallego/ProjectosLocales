@@ -1,0 +1,10 @@
+Analista con amplia  experticia  como desarrollador, con conocimientos en .net
+Aprobar prueba de PCO con buena programación, documentación y buenas practicas en codificación (nombramiento de variables y estructura):
+
+Esta es la prueba:
+https://www.hackerrank.com/challenges/missing-numbers/problem
+Condiciones:
+1. Debe ser solucionada en .Net, no importa el tipo de aplicación (consola, web, winform)
+2. Esperamos alto nivel de calidad de código, eso es igual de importante al resultado (encontrar los números faltantes).
+3. Subir el código en algún repositorio git (github, bitbucket) y dar permisos a carlos.ospina@puntoscolombia.com y mauricio.cadavid@puntoscolombia.com
+antes de subirla Jordi enrique calle te hace una revisión.

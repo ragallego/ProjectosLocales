@@ -1,0 +1,4 @@
+C:\Users\rogallego\Desktop\Puntos Colombia\Solucion_PuntosColombia\Solucion_PuntosColombia\bin\Debug\Solucion_PuntosColombia.exe
+C:\Users\rogallego\Desktop\Puntos Colombia\Solucion_PuntosColombia\Solucion_PuntosColombia\bin\Debug\Solucion_PuntosColombia.pdb
+C:\Users\rogallego\Desktop\Puntos Colombia\Solucion_PuntosColombia\Solucion_PuntosColombia\obj\x86\Debug\Solucion_PuntosColombia.exe
+C:\Users\rogallego\Desktop\Puntos Colombia\Solucion_PuntosColombia\Solucion_PuntosColombia\obj\x86\Debug\Solucion_PuntosColombia.pdb
